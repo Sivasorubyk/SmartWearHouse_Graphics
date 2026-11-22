@@ -127,7 +127,7 @@ Do not open `dist/index.html` by double-clicking; use the preview command becaus
 9. Pause and expose the spotlight helper.
 10. End by explaining the model-view-projection pipeline.
 
-## Step 10 - Viva answers you should know
+## Step 10 - you should know
 
 **Why Three.js instead of Unity?** Three.js removes WebGL boilerplate but keeps the scene graph, matrices, cameras, projection, materials, lights and shadow configuration visible in code, which supports explanation of the taught graphics pipeline.
 
