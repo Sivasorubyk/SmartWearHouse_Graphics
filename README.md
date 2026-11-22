@@ -141,11 +141,8 @@ Do not open `dist/index.html` by double-clicking; use the preview command becaus
 
 **What is procedural texturing?** The project draws repeatable texture images at runtime using a 2D canvas, then maps them onto 3D mesh UV coordinates. This avoids missing external image files and still demonstrates texture mapping.
 
-## Step 11 - Presentation structure
 
-Use: title; problem and motivation; objectives; requirements; scene architecture; primitives; hierarchical robot; transformations and mathematics; camera/view coordinates; perspective versus orthographic projection; textures/PBR materials; lighting; shadow mapping; animation; interaction; screenshots/results; performance and limitations; future work; conclusion; live demo.
-
-## Step 12 - Sensible personal improvements
+## Step 11 - Sensible personal improvements
 
 First make this version run reliably. Then change warehouse colours, box arrangement, robot design, labels, and presentation screenshots. Optional extensions are collision detection, a waypoint path, loading one GLTF forklift, FPS monitoring, bloom, or a camera-frustum helper. Document any external assets and their licences.
 
