@@ -1,6 +1,6 @@
 # Interactive Real-Time 3D Smart Warehouse
 
-An MSc Advanced Computer Graphics project built with Three.js/WebGL. It demonstrates graphics primitives, hierarchical modelling, transformations, vectors, perspective and orthographic projection, camera/view transformations, procedural texture mapping, physically based materials, moving lights, real-time shadow maps, animation and interaction.
+An Advanced Computer Graphics project built with Three.js/WebGL. It demonstrates graphics primitives, hierarchical modelling, transformations, vectors, perspective and orthographic projection, camera/view transformations, procedural texture mapping, physically based materials, moving lights, real-time shadow maps, animation and interaction.
 
 ## Step 1 - Install the required software
 
